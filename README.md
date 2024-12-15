@@ -1,5 +1,3 @@
-![Alt text](assets/img/motto3.png)
-
 # Data & AI Analytics Analyst
 #### Technical Skills: Python, SQL, R, GCP, Azure, Power BI, Tableau
 
@@ -34,3 +32,6 @@ Summer Insight | McKinsey & Co. (Tokyo, Japan)**
 As a hobby, I enjoy playing the piano and have mastered some iconic classical pieces. Below are the pieces I have ever performed in public, including at charity events, school performances, and company gatherings:
 - Frédéric Chopin: Étude in E major, Op. 10, No. 3 ('Tristesse')
 - Frédéric Chopin: Waltz in D-flat major, Op. 64, No. 1 (‘Valse du petit chien’)
+
+
+![Alt text](assets/img/motto3.png)
