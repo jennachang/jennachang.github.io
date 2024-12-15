@@ -21,7 +21,7 @@ Summer Insight | McKinsey & Co. (Tokyo, Japan)**
 - Microsoft Power BI Data Analyst Associate PL300		| 	passed		 	(_2024_)
 - Japanese Language Proficiency Test, Level N1(highest level)	| 180/180(full marks) 	(_2023_)
 - Google Cloud Digital Leader Certification				| 	passed			(_2022_)
-- AI Explained, Coursera					| 			passed (_2022_)
+- AI Explained, Coursera					| 			    passed (_2022_)
 
 ## Languages:
 - English
