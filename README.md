@@ -1,4 +1,4 @@
-# Data & AI Analytics Analyst
+# Data & AI Analytics
 #### Technical Skills: Python, SQL, R, GCP, Azure, Power BI, Tableau
 
 
