@@ -1,3 +1,5 @@
+![Alt text](assets/img/motto.jpeg)
+
 # Data & AI Analytics Analyst
 #### Technical Skills: Python, SQL, R, GCP, Azure, Power BI, Tableau
 
