@@ -34,4 +34,4 @@ As a hobby, I enjoy playing the piano and have mastered some iconic classical pi
 - Frédéric Chopin: Waltz in D-flat major, Op. 64, No. 1 (‘Valse du petit chien’)
 
 
-![Alt text](assets/img/motto3.png)
+![Alt text](assets/img/motto5.png)
