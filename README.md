@@ -1,5 +1,5 @@
 # Data & AI Analytics
-#### Technical Skills: Python, SQL, R, GCP, AWS, Azure, Git, Power BI, Tableau
+#### Technical Skills: Python, SQL, R, GCP, AWS, Azure, Git, Tableau
 
 
 ## Education
